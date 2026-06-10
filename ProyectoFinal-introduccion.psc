@@ -262,13 +262,10 @@ Proceso ProyectoFinal
 				Esperar Tecla
 				
             10:
-                Escribir "Rectangulo"
 				Escribir "RECTANGULO CON ASTERISCOS"
 				
 				Escribir "Ingrese la cantidad de filas:"
 				Leer n
-				
-				Definir columnas Como Entero
 				
 				Escribir "Ingrese la cantidad de columnas:"
 				Leer columnas
